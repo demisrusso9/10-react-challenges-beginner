@@ -1,0 +1,34 @@
+.calc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-block {
+    display: flex;    
+    justify-content: center;
+}
+
+.input-block input{
+    text-align: center;
+    padding: 0.4rem 0.8rem;
+    margin-right: 20px;    
+}
+
+.calc .btn{
+    height: 40px;
+    width: 100px;
+    background: blue;
+    color: #fff;
+    border: none;    
+    cursor: pointer;
+}
+
+.calc .btn:hover{
+    opacity: 0.8;
+}
+
+.calc .total{
+    font: bold 1.8rem Verdana;
+    color: #000;
+}

@@ -1,0 +1,11 @@
+.loop {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.users-box {        
+    text-align: center;
+    margin: 1px;
+    padding: 1rem;
+    background: rgb(118, 165, 196);    
+}

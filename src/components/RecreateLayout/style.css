@@ -1,0 +1,7 @@
+.layout-box {
+    max-width: 300px;
+    max-height: 300px;
+    color: #000;
+    background: lightblue;   
+    margin: 1rem;    
+}

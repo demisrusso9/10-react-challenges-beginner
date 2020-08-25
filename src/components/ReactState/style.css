@@ -1,0 +1,21 @@
+.display {
+    display: flex;
+    justify-content: space-around;
+}
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+}
+
+.input-box label {
+    font: 700 1.2rem Verdana;
+}
+
+.input-box input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 1rem;
+}
